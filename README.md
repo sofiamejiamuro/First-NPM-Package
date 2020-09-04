@@ -1,8 +1,11 @@
 # What's this?
 
 Get perfect shadows!
+
 First exercise to create a npm library.
-Based on a youtube video that currently can't remenber.
+
+Based on a youtube video that currently can't remember, as soon as I can I paste the link.
+
 # Installation
 
 `npm i sombritas --save`
